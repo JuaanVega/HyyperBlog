@@ -1,2 +1,2 @@
 # HyyperBlog
-Blog gt y github
+Blog git y github
